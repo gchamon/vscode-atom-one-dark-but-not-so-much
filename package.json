@@ -2,7 +2,7 @@
     "name": "atom-one-dark-but-not-so-much",
     "displayName": "Atom One Dark (but not so much)",
     "description": "Theme based on Atom One Dark, but with white variable names and blue methods and properties",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "gchamon",
     "repository": "https://github.com/gchamon/vscode-atom-one-dark-but-not-so-much",
     "engines": {
