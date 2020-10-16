@@ -8,6 +8,10 @@ The few modifications from the base theme are:
 - Variables methods/properties are blue(ish)
 - Carret is lighter in color, as to increase contrast with the highlighted character
 
+## Preview
+
+![alt text](images/preview.png "Preview")
+
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
